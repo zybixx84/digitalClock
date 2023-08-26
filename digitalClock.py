@@ -1,4 +1,4 @@
-from tkinter import TK, Label
+from tkinter import Tk, Label
 
 window = Tk()
 window.title("Digital Clock")
